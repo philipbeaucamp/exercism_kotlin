@@ -18,7 +18,8 @@ node_modules
 *.idea
 */build
 */gradle
-*.gradlew
 *.md
 *.bat
-
+build.gradle.kts
+settings.gradle.kts
+gradlew
