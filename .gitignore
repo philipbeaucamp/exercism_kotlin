@@ -20,6 +20,6 @@ node_modules
 */gradle
 *.md
 *.bat
-build.gradle.kts
-settings.gradle.kts
-gradlew
+*build.gradle.kts
+*settings.gradle.kts
+*gradlew
